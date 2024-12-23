@@ -31,7 +31,7 @@ Breev is a comprehensive 360° knowledge management platform designed to ensure 
 a = Analysis(
     ['app.py'],
     pathex=[],
-    binaries=[('/opt/homebrew/bin/ffmpeg', 'ffmpeg')], # Change path for Windows
+    binaries=[('/opt/homebrew/bin/ffmpeg', 'ffmpeg')], 
     datas=[],
     hiddenimports=[],
     hookspath=[],
